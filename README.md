@@ -1,25 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Les projets d'aujourd'hui: 
 
-Things you may want to cover:
+Créer des databases. 
 
-* Ruby version
+Projets réalisés: 
 
-* System dependencies
+Tout ce qui tient à la création de tables et leurs mises en relation + Faker/Seed 
 
-* Configuration
+Le reste, j'étais crevé ! 
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# rails
+Alex 
